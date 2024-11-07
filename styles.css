@@ -1,0 +1,38 @@
+.container{
+    background-color: white;
+    width:600px;
+    height:400px;
+    margin-left: 350px;
+    margin-top: 90px;
+    text-align: center;
+    font-family: roboto,Arial;
+
+}
+
+body{
+    background-color: rgb(238, 231, 231);
+}
+
+.profile-picture{
+    width:100px;
+    height:100px;
+    border-radius: 50px;
+    margin-top:10px;
+
+}
+
+.write-word{
+    font-weight: bold;
+    font-family: Roboto, Arial;
+    text-align:center;
+}
+.link{
+    text-decoration:none;
+    color:black;
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
